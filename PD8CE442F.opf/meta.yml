@@ -1,0 +1,18 @@
+id: PD8CE442F
+initial_creation_type: input
+source_metadata:
+  title: Kagyü Series
+  language: en
+  description: 'Texts related to the Kagyü (bka'' brgyud) tradition and its sub-branches:'
+  volume:
+    77b8b9ebae12451ba8ac14ed31408abb:
+      title: Invoking the Blessings of the Kagyü Lineage—‘Dorjechang Thungma’
+      parent: Lineage Prayers
+    946d9c986690466bad2e0d5734d473a9:
+      title: Prayer to the Kagyü Masters
+      parent: Prayers
+    15b63da72d1841b890fe086b4ac2d22f:
+      title: 'The Honey of Devotion: A Prayer to the Garland of Glorious Karmapa Incarnations'
+      parent: Prayers
+created_at: '2022-03-01T04:02:24.838777'
+last_modified_at: '2022-03-01T04:02:24.838784'
